@@ -1,0 +1,56 @@
+.mockinterview-how{
+    font-family: 'Montserrat';
+    font-style: normal;
+    font-weight: 600;
+    font-size: 30px;
+    line-height: 37px;
+    color: #FFB756;
+  }
+  
+  .mockinterview-p{
+    font-weight: 400;
+    font-size: 25px;
+    line-height: 37px;
+    text-align: justify;
+  
+    color: #000000;
+  }
+
+  .select p{
+    margin-top: 3rem;
+    line-height: 0;
+    font-weight: 500;
+  }
+
+  .select select {
+    margin-bottom: 3rem;
+    text-align: center;
+    padding: 0.5rem;
+    border-radius: 15px;
+  }
+  
+  
+  .startbtn{
+    background: #FFB756;
+    border-radius: 50px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: auto;
+    margin: 0 auto;
+    padding: 1rem 6rem;
+    font-family: 'Montserrat';
+    font-weight: 600;
+    font-size: 35px;
+    line-height: 43px;
+    cursor: pointer;
+    color: #000000;
+    text-align: center;
+    border: none;
+  }
+  
+  .startbtn:hover, .startbtn:active {
+    background-color: black;
+    color: #FFB756;
+    border: black;
+  }

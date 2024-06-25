@@ -1,0 +1,22 @@
+.others{
+    margin: 5rem 13rem;
+    font-family: 'Montserrat';
+}
+
+.othersbutton button{
+    display: flex;
+    flex-direction: column; 
+    align-items: center;
+    text-align: center;
+    font-size: 40px;
+    background-color: transparent;
+    border: none;
+}
+
+.othersbutton button:hover{
+    color: grey;
+}
+
+.others .img{
+    float: right;
+}
