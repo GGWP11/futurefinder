@@ -1,5 +1,5 @@
 # FutureFinder
-FutureFinder is a website developed for youngsters to **boost their career development** and **job hunting**. <br />
+FutureFinder is a website developed for youngsters to **boost career development** and **job hunting**. <br />
 The platform allows user to perform various career development activities:
 - mock interviews
 - chatting with professionals from different career fields
