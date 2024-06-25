@@ -1,0 +1,39 @@
+.careerinfo-h3{
+    font-family: 'Lato';
+    font-style: normal;
+    font-weight: 600;
+    font-size: 40px;
+    line-height: 48px;
+}
+
+.filter{
+    font-family: 'Lato';
+    font-style: normal;
+    font-weight: 500;
+    font-size: 25px;
+    line-height: 30px;
+}
+
+.careerbox{
+    margin: 2rem auto;
+    width: 432px;
+    height: auto;
+    background: #6C779F;
+    border-radius: 53px;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+
+.careerinfo-btn{
+    border: none;
+    font-family: 'Montserrat';
+    font-weight: 900;
+    font-size: 36px;
+    line-height: 44px;
+    color: #FFFFFF;
+    background: #6C779F;
+    border-radius: 19px;
+    padding: 1rem 0;
+}

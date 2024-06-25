@@ -1,0 +1,66 @@
+.plan h3 {
+  margin-top: 9rem;
+  font-family: 'Montserrat';
+  font-weight: 900;
+  font-size: 40px;
+  text-align: center;
+}
+
+.plan p {
+  font-size: 20px;
+  text-align: center;
+}
+
+.column {
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  align-items: center;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.plan-card {
+  margin: 1rem;
+  padding: 2rem;
+  border: 1px solid #ccc;
+  border-radius: 5px;
+  max-width: 400px;
+  text-align: center;
+  border-radius: 20px;
+}
+
+.plan-card:hover {
+  box-shadow: 1rem 1rem 1rem 1rem grey;
+}
+
+.plan-card h5 {
+  padding: 1.4rem 1.4rem 0 1.4rem;
+  font-size: 27px;
+  font-family: 'Montserrat';
+  font-weight: 700;
+}
+
+.plan-card h6 {
+  margin-top: 1rem;
+  font-size: 15px;
+  font-family: 'Montserrat';
+  text-align: center;
+  font-weight: 500;
+}
+
+.plan-card button {
+  border-radius: 30px;
+  font-size: 20px;
+  font-weight: 500;
+  border: none;
+  padding: 1rem;
+  background-color: #ffb756;
+  color: black;
+}
+
+.plan-card button:hover {
+  color: #ffb756;
+  background-color: black;
+}

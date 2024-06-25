@@ -1,0 +1,56 @@
+.points-title{
+    font-family: 'Montserrat';
+    font-weight: bold;
+    font-size: 20px;
+}
+
+.firstpoints{
+    margin-top: 3rem;
+    display: flex;
+    flex-direction: row;
+}
+
+.firstpoints button, .secondpoints button{
+    margin: -1rem 0 0 2rem;
+    border-radius: 15px;
+    border: none;
+    background-color: #FFB756;
+    color: black;
+    font-size: 20px;
+    padding: 0.8rem;
+}
+
+.firstpoints button:hover, .secondpoints button:hover{
+    color: #FFB756;
+    background-color: black;
+}
+
+.secondpoints{
+    margin-top: 3rem;
+    display: flex;
+    flex-direction: row;
+    margin-bottom: 4rem;
+}
+
+
+.points-p{
+    font-size: 20px;
+}
+
+.points-img{
+    width: 650px;
+    height: auto;
+    margin: 2rem 0;
+}
+
+.curpoints{
+    font-size: 40px;
+    background-color: white;
+}
+
+.points-heading{
+    font-family: 'Montserrat';
+    font-weight: bold;
+    font-size: 20px;
+
+}
